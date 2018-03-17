@@ -1,3 +1,4 @@
 geckodriver.log
 ghostdriver.log
 *.pyc
+analysis/.ipynb_checkpoints
